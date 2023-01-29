@@ -46,7 +46,7 @@ with open('aruvi.txt','r') as file1:
 print('num of words={}'.format(num_words))
 
 ### OUTPUT:
-![](./wordcount.png)
+![](./woc.png)
 
 
 
